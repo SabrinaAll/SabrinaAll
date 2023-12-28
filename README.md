@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SabrinaAll
 - 👀 I’m interested in AI Develop and Change the World! 
 - 🌱 I’m currently learning Platform engineering, programming languages ​​C# / Python / HTML / CSS / JavaScript / .NET / JAVA
-- 💞️ I Love help People! I’m looking to collaborate on with the development of new technologies that can help people’s daily lives and change their daily lives!
+- 💞️ I love helping people! I seek to collaborate with the development of new technologies that can help people and change their daily lives!
 - 📫 How to reach me: Linkedin www.linkedin.com/in/gabriela-silva-alves
 
 <!---
