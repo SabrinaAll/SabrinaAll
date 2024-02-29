@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabrinaAll
 - 👀 I’m interested in AI Develop and Change the World! 
-- 🌱 I’m currently learning Platform engineering, programming languages ​​C# / Python / HTML / CSS / JavaScript / .NET / JAVA
+- 🌱 I am a Systems Analysis and Development student, Dev Java Jr (+1y) and I am currently studying .NET | C# | WEB Dev | Generative AI
 - 💞️ I love helping people! I seek to collaborate with the development of new technologies that can help people and to transform their daily lives!
 - 📫 How to reach me: Linkedin www.linkedin.com/in/gabriela-silva-alves
 
