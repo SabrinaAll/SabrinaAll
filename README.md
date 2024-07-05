@@ -2,7 +2,7 @@
 - 👀 Sou apaixonada por desenvolvimento de IA e por mudar o mundo! 
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou estudando sobre Inteligencias Artificiais 🤖
 - 💞️ Amo ajudar as pessoas a enxergarem o mundo da maneira incrível, como eu vejo! 
-- 💡 Meu Ebook sobre Redes Neurais Artificiais<a href="Ebook Redes Neuraus Artificiais.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+- 💡 Meu Ebook sobre Redes Neurais Artificiais<a href="https://github.com/SabrinaAll/receita-para-criar-um-ebook/blob/main/Ebook%20Redes%20Neuraus%20Artificiais.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 - 📫 Como me encontrar: Linkedin www.linkedin.com/in/gabriela-silva-alves
 
 <!---
